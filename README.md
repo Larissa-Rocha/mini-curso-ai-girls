@@ -13,12 +13,12 @@ Caso você não conseguiu instalar um deles, poderá utilizar a versão online c
 1. [ Tutorial de instalação. ](#instalacao)
 2. [ Tutorial Google Colab. ](#google-colab)
 
-<a name="desc"></a>
+<a name="instalacao"></a>
 ## 1. Description
 
 sometext
 
-<a name="usage"></a>
+<a name="google-colab"></a>
 ## 2. Usage tips
 
 sometext
