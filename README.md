@@ -19,7 +19,9 @@ Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que a
 2. [Anaconda](https://docs.anaconda.com/anaconda/install/)
 3. [Pip](https://pip.pypa.io/en/stable/installing/)
 
-P.S: Caso você não conseguiu instalar um deles, poderá utilizar a versão online com o [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)!
+**Para acessar o tutorial que criamos para instalar essas ferramentas, [clique aqui.](https://docs.google.com/presentation/d/1a-daFACGDqUo9pcitdguZpBEmiD4KzVdswhK7H56KNs/edit?usp=sharing)**
+
+*P.S: Caso você não conseguiu instalar um deles, poderá utilizar a versão online com o [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)!*
 
 ---
 <a name="instalacao"></a>
