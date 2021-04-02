@@ -1,7 +1,12 @@
 # Workshop de Machine Learning para Mulheres
 
+<img src="./figures/machinelearning3.png" width=700px>
 
-<a name="sumario"></a>
+Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que aprendam e se divirtam junto conosco! Neste repositório você encontrará todos os materias que serão utilizados durante as aulas.
+
+---
+
+<a id="sumario"></a>
 # Sumário
 1. [Requisitos](#requisitos)
 1. [Como abrir o Jupyter notebook usando o Anaconda?](#instalacao)
@@ -16,13 +21,27 @@
 
 P.S: Caso você não conseguiu instalar um deles, poderá utilizar a versão online com o [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)!
 
-
+---
 <a name="instalacao"></a>
-## 1. Como abrir o Jupyter notebook usando o Anaconda?
+## 2. Como abrir o Jupyter notebook usando o Anaconda?
+Depois de ter instalado o Anaconda e o Python abra o app do anaconda. E siga os seguintes passos:
 
-sometext
+<img src="./figures/Captura de Tela 2021-04-02 às 11.56.30.png" width=600px>
 
+<img src="./figures/Captura de Tela 2021-04-02 às 11.57.05.png" width=600px>
+
+<img src="./figures/Captura de Tela 2021-04-02 às 11.57.32.png" width=600px>
+
+<img src="./figures/Captura de Tela 2021-04-02 às 11.58.07.png" width=600px>
+
+---
 <a name="google-colab"></a>
-## 2. Tutorial Google Colab
+## 3. Tutorial Google Colab
 
-sometext
+O Google Colab fornece todo o ambiente que pedimos para vocês instalarem de forma online, portanto você não precisará instalara nada! Mas é necessário ter uma conta da Google
+
+<img src="./figures/photo5107527473377159729.jpg" width=600px>
+
+<img src="./figures/photo5107527473377159730.jpg" width=600px>
+
+P.S: Para conhecer mais sobre o Google Colab, [clique aqui!](https://medium.com/@leonardopiechacaldeira/guia-explicativo-para-usar-o-google-colab-para-ciência-de-dados-86fc6458dd9c)
