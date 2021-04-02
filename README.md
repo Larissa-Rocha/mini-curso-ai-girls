@@ -6,12 +6,6 @@ Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que a
 
 ---
 
-<a id="sumario"></a>
-# Sumário
-1. [Requisitos](#requisitos)
-1. [Como abrir o Jupyter notebook usando o Anaconda?](#instalacao)
-2. [ Tutorial Google Colab](#google-colab)
-
 <a name="requisitos"></a>
 ## Requisitos
 
