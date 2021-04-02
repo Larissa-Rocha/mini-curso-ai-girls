@@ -1,11 +1,11 @@
-# Workshop de Machine Learning para Mulheres
+# Workshop de Machine Learning para :woman: :curly_haired_woman: :red_haired_woman: :woman_with_headscarf:
 
 <img src="./figures/machinelearning3.png" width=700px>
 
-Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que aprendam e se divirtam junto conosco! Neste repositório você encontrará todos os materias que serão utilizados durante as aulas.
+Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que aprendam e se divirtam junto conosco! Neste repositório você encontrará todos os materias que serão utilizados durante as aulas. :woman_technologist: :technologist: :woman_dark_skin_tone_curly_hair:
 
 <a id="sumario"></a>
-# Sumário
+# :books: Sumário
 1. [Requisitos](#requisitos)
 1. [Como abrir o Jupyter notebook usando o Anaconda?](#instalacao)
 2. [ Tutorial Google Colab](#google-colab)
@@ -13,7 +13,7 @@ Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que a
 ---
 
 <a name="requisitos"></a>
-## 1. Requisitos
+## :computer: 1. Requisitos
 
 1. [Python 3.6 ou maior](https://www.python.org/downloads/)
 2. [Anaconda](https://docs.anaconda.com/anaconda/install/)
@@ -25,7 +25,7 @@ Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que a
 
 ---
 <a name="instalacao"></a>
-## 2. Como abrir o Jupyter notebook usando o Anaconda?
+## :mag: 2. Como abrir o Jupyter notebook usando o Anaconda?
 Depois de ter instalado o Anaconda e o Python abra o app do anaconda. E siga os seguintes passos:
 
 <img src="./figures/Captura de Tela 2021-04-02 às 11.56.30.png" width=600px>
@@ -38,7 +38,7 @@ Depois de ter instalado o Anaconda e o Python abra o app do anaconda. E siga os 
 
 ---
 <a name="google-colab"></a>
-## 3. Tutorial Google Colab
+## :mag: 3. Tutorial Google Colab
 
 O Google Colab fornece todo o ambiente que pedimos para vocês instalarem de forma online, portanto você não precisará instalara nada! Mas é necessário ter uma conta da Google
 
@@ -47,3 +47,5 @@ O Google Colab fornece todo o ambiente que pedimos para vocês instalarem de for
 <img src="./figures/photo5107527473377159730.jpg" width=600px>
 
 P.S: Para conhecer mais sobre o Google Colab, [clique aqui!](https://medium.com/@leonardopiechacaldeira/guia-explicativo-para-usar-o-google-colab-para-ciência-de-dados-86fc6458dd9c)
+
+Boa sorte meninas! 
