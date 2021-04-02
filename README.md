@@ -4,10 +4,16 @@
 
 Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que aprendam e se divirtam junto conosco! Neste repositório você encontrará todos os materias que serão utilizados durante as aulas.
 
+<a id="sumario"></a>
+# Sumário
+1. [Requisitos](#requisitos)
+1. [Como abrir o Jupyter notebook usando o Anaconda?](#instalacao)
+2. [ Tutorial Google Colab](#google-colab)
+
 ---
 
 <a name="requisitos"></a>
-## Requisitos
+## 1. Requisitos
 
 1. [Python 3.6 ou maior](https://www.python.org/downloads/)
 2. [Anaconda](https://docs.anaconda.com/anaconda/install/)
