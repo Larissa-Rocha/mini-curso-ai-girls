@@ -2,7 +2,7 @@
 
 <img src="./figures/machinelearning3.png" width=700px>
 
-Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que aprendam e se divirtam junto conosco! Neste repositório você encontrará todos os materias que serão utilizados durante as aulas. :woman_technologist: :technologist: :woman_dark_skin_tone_curly_hair:
+Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que aprendam e se divirtam junto conosco! Neste repositório você encontrará todos os materias que serão utilizados durante as aulas. :woman_technologist: :technologist: 
 
 <a id="sumario"></a>
 # :books: Sumário
