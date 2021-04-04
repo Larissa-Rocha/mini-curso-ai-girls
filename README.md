@@ -18,11 +18,13 @@ Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que a
 1. [Python 3.6 ou maior](https://www.python.org/downloads/)
 2. [Anaconda](https://docs.anaconda.com/anaconda/install/)
 3. [Pip](https://pip.pypa.io/en/stable/installing/)
+4. [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
 
 **Para acessar o tutorial que criamos para instalar essas ferramentas, [clique aqui.](https://docs.google.com/presentation/d/1a-daFACGDqUo9pcitdguZpBEmiD4KzVdswhK7H56KNs/edit?usp=sharing)**
 
 *P.S: Caso você não conseguiu instalar um deles, poderá utilizar a versão online com o [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)!*
 
+**Fizemos um vídeo para você conseguir abrir os códigos que a instrutora fez, [clique aqui](https://youtu.be/I9ZOiTf5d4U)**
 ---
 <a name="instalacao"></a>
 ## :mag: 2. Como abrir o Jupyter notebook usando o Anaconda?
