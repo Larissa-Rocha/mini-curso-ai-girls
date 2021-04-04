@@ -43,11 +43,15 @@ Depois de ter instalado o Anaconda e o Python abra o app do anaconda. E siga os 
 <a name="google-colab"></a>
 ## :mag: 3. Tutorial Google Colab
 
-O Google Colab fornece todo o ambiente que pedimos para vocês instalarem de forma online, portanto você não precisará instalara nada! Mas é necessário ter uma conta da Google
+O Google Colab fornece todo o ambiente que pedimos para vocês instalarem de forma online, portanto você não precisará instalara nada! Mas é necessário ter uma conta da Google.
 
-<img src="./figures/photo5107527473377159729.jpg" width=600px>
+<img src="./figures/Captura de Tela 2021-04-04 às 14.40.39.png" width=600px>
+<img src="./figures/Captura de Tela 2021-04-04 às 14.41.01.png" width=600px>
 
-<img src="./figures/photo5107527473377159730.jpg" width=600px>
+Selecione o notebook da instrutora que você quer rodar!
+<img src="./figures/Captura de Tela 2021-04-04 às 14.41.55.png" width=600px>
+
+<img src="./figures/Captura de Tela 2021-04-04 às 14.42.24.png" width=600px>
 
 P.S: Para conhecer mais sobre o Google Colab, [clique aqui!](https://medium.com/@leonardopiechacaldeira/guia-explicativo-para-usar-o-google-colab-para-ciência-de-dados-86fc6458dd9c)
 
