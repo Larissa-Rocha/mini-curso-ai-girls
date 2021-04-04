@@ -24,7 +24,7 @@ Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que a
 
 *P.S: Caso você não conseguiu instalar um deles, poderá utilizar a versão online com o [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)!*
 
-**Fizemos um vídeo para você conseguir abrir os códigos que a instrutora fez, [clique aqui](https://youtu.be/I9ZOiTf5d4U)**
+**Fizemos um vídeo para você conseguir abrir os códigos que a instrutora fez, [clique aqui.](https://youtu.be/I9ZOiTf5d4U)**
 
 ---
 <a name="instalacao"></a>
