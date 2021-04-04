@@ -24,7 +24,7 @@ Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que a
 
 *P.S: Caso você não conseguiu instalar um deles, poderá utilizar a versão online com o [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)!*
 
-**Fizemos um vídeo para você conseguir abrir os códigos que a instrutora fez, [clique aqui.](https://youtu.be/I9ZOiTf5d4U)**
+
 
 ---
 <a name="instalacao"></a>
@@ -38,6 +38,8 @@ Depois de ter instalado o Anaconda e o Python abra o app do anaconda. E siga os 
 <img src="./figures/Captura de Tela 2021-04-02 às 11.57.32.png" width=600px>
 
 <img src="./figures/Captura de Tela 2021-04-02 às 11.58.07.png" width=600px>
+
+**Fizemos um vídeo para você conseguir abrir os códigos que a instrutora fez, [clique aqui.](https://youtu.be/I9ZOiTf5d4U)**
 
 ---
 <a name="google-colab"></a>
