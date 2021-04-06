@@ -7,8 +7,24 @@ Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que a
 <a id="sumario"></a>
 # :books: Sumário
 1. [Requisitos](#requisitos)
-1. [Como abrir o Jupyter notebook usando o Anaconda?](#instalacao)
-2. [ Tutorial Google Colab](#google-colab)
+2. [Calendário do workshop](#calendario)
+3. [Como abrir o Jupyter notebook usando o Anaconda?](#instalacao)
+4. [ Tutorial Google Colab](#google-colab)
+
+<a id="calendario"></a>
+# :date: Calendário
+
+Data   | Aula
+--------- | ------
+24/03/2021 | Primeiro encontro (Ao vivo)
+25/03/2021 | Aula 01: Metodologias e planejamento
+25/03/2021 | Aula 02: Instalação de ferramentas e explicação dos tipos de dados
+28/03/2021 | Aula 03: Tipos de machine learning
+02/04/2021 | Aula 04: Entendimento dos dados
+05/04/2021 | Aula 05: Preparação dos dados
+10/04/2021 | Aula 06: Modelo e Avaliação
+12/04/2021 | Revisão geral, tirar dúvidas e Desafio(Ao vivo)
+01/05/2021 | Entrega do desafio (ao vivo)
 
 ---
 
