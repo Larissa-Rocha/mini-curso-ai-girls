@@ -4,6 +4,8 @@
 
 Sejam bem vindas ao nosso workshop de Machine learning, esperamos bastante que aprendam e se divirtam junto conosco! Neste repositório você encontrará todos os materias que serão utilizados durante as aulas. :woman_technologist: :technologist: 
 
+Para acessar os slides passados no primeiro dia, [clique aqui](https://github.com/aigirlsbr/mini-curso-ai-girls/blob/main/Apresentac%CC%A7a%CC%83o/Abertura-%20Workshop%20ML%20para%20mulheres.pdf)
+
 <a id="sumario"></a>
 # :books: Sumário
 1. [Requisitos](#requisitos)
